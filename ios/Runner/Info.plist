@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>NSMicrophoneUsageDescription</key>
+    <string>This app needs microphone access to record audio</string>
 	<key>CFBundleDisplayName</key>
 	<string>Flutter Voice Recoder</string>
 	<key>CFBundleExecutable</key>
